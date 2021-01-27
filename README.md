@@ -1,2 +1,10 @@
-# generate_digits
-Use TF-GAN's GANEstimator and the MNIST dataset to create a GAN for generating fake handwritten digits.
+# Generate Digits
+
+Estimator: TF-GAN's GANEstimator 
+Data: MNIST dataset 
+
+Objective: To create a Generative Adverserial Network for generating fake handwritten digits.
+
+[Notebook](generate_digits.ipynb)
+
+[Study reference](GANs.ipynb)
